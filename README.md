@@ -14,7 +14,7 @@ Aspiring Software Developer currently building a strong foundation in web develo
 - HTML5
 - CSS3
 - JavaScript
-- GitHub
+- Git & GitHub
 
 ## 📚 Currently Learning
 
