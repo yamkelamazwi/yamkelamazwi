@@ -1,39 +1,31 @@
-# Hi, I'm Yamkela Mazwi 👋
+# Hi, I'm Yamkela 👋
 
-Aspiring Software Developer currently building a strong foundation in web development through freeCodeCamp.
+## About Me
 
-## 🚀 About Me
+Aspiring Front-End Developer learning HTML, CSS, and JavaScript through FreeCodeCamp. I enjoy building projects, improving my problem-solving skills, and growing my understanding of web development.
 
-- Learning JavaScript, HTML, and CSS
-- Building projects and growing my GitHub portfolio
-- Exploring Git and GitHub best practices
-- Interested in front-end and software development
+## Currently Learning
 
-## 🛠️ Skills
+- JavaScript
+- DOM Manipulation
+- Accessibility (ARIA)
+- Responsive Web Design
+- Git and GitHub
+
+## Skills
 
 - HTML5
 - CSS3
 - JavaScript
-- Git & GitHub
+- Git and GitHub
 
-## 📚 Currently Learning
+## Goals
 
-- JavaScript Algorithms and Data Structures
-- Git & GitHub
-- Front-End Development
+- Complete the FreeCodeCamp JavaScript Certification
+- Build a strong portfolio of projects
+- Grow as a Front-End Developer
 
-## 🎯 Goals
+## Connect With Me
 
-- Complete the freeCodeCamp JavaScript certification
-- Build real-world web applications
-- Create a strong software development portfolio
-- Transition into a software development role
-
-## 📂 Projects
-
-- Rock Paper Scissors
-- Football Team Cards
-
----
-
+- GitHub: github.com/yamkelamazwi
 *"Every project is one step closer to becoming a developer."*
