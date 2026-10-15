@@ -1,4 +1,4 @@
-# Yo, Welcome to My Corner of GitHub 👨‍💻👋
+# Yo, Welcome to My GitHub 👨‍💻👋
 
 ## About Me
 
