@@ -1,4 +1,4 @@
-# Hi, I'm Yamkela 👋
+# Yo, Welcome to My Corner of GitHub 👨‍💻👋
 
 ## About Me
 
