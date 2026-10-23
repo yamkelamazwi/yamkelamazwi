@@ -1,31 +1,36 @@
 # Yo, Welcome to My GitHub 👨‍💻👋
 
-## About Me
+I'm a self-taught aspiring Frontend Developer focused on building interactive web applications with JavaScript.
 
-Aspiring Front-End Developer learning HTML, CSS, and JavaScript through FreeCodeCamp. I enjoy building projects, improving my problem-solving skills, and growing my understanding of web development.
+Currently, I'm strengthening my skills in:
 
-## Currently Learning
-
-- JavaScript
+- JavaScript (ES6+)
+- Regular Expressions (Regex)
 - DOM Manipulation
-- Accessibility (ARIA)
 - Responsive Web Design
-- Git and GitHub
+- Git & GitHub
+- Debugging and Problem Solving
 
-## Skills
+## Projects
 
-- HTML5
-- CSS3
-- JavaScript
-- Git and GitHub
+- Markdown to HTML Converter
+- Regex Sandbox
+- Spam Filter
+- Pig Latin Translator
+- Spinal Case Converter
+- Palindrome Checker
+
+## Current Focus
+
+I'm actively working through JavaScript algorithms and application development while building portfolio projects that demonstrate real-world functionality and user interaction.
 
 ## Goals
 
-- Complete the FreeCodeCamp JavaScript Certification
-- Build a strong portfolio of projects
-- Grow as a Front-End Developer
+- Build more advanced JavaScript applications
+- Learn React
+- Develop a professional frontend portfolio
+- Transition into a Frontend Developer role
 
 ## Connect With Me
 
 - GitHub: github.com/yamkelamazwi
-*"Every project is one step closer to becoming a developer."*
