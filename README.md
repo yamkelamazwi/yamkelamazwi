@@ -1,6 +1,6 @@
-# Yo, Welcome to My GitHub 👨‍💻👋
+# 👋 Yo, I'm Yamkela Mazwi
 
-Frontend Developer building JavaScript applications and strengthening problem-solving skills through hands-on projects.
+Frontend Developer building practical web applications with HTML, CSS, and JavaScript.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,83 +13,97 @@ Frontend Developer building JavaScript applications and strengthening problem-so
 
 ## 🚀 About Me
 
-I'm a self-taught developer focused on building practical projects with JavaScript while improving my frontend development skills.
+I'm a self-taught Frontend Developer from South Africa who enjoys learning by building projects and solving real problems with code.
 
-### Current Focus
-
-- JavaScript (ES6+)
-- DOM Manipulation
-- Regular Expressions (Regex)
-- Responsive Web Design
-- Git & GitHub
-- Frontend Development
+My current focus is strengthening my JavaScript foundations, improving my frontend development skills, and creating responsive, user-friendly web applications.
 
 ---
 
-## 🛠 Featured Projects
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Design
+- Accessibility
+- Git & GitHub
+- Regular Expressions (Regex)
+- DOM Manipulation
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio**
+
+https://yamkelamazwi.github.io/Yamkela-Mazwi-Frontend-Developer/
+
+---
+
+## 📂 Featured Projects
+
+### 🔍 Regex Sandbox
+
+An interactive tool for testing and experimenting with regular expressions in real time.
+
+**Live Demo**  
+https://yamkelamazwi.github.io/regex-sandbox/
+
+**Repository**  
+https://github.com/yamkelamazwi/regex-sandbox
+
+---
 
 ### 📄 Markdown to HTML Converter
 
-Convert Markdown into HTML in real time with:
+A browser-based Markdown converter that transforms Markdown into HTML instantly.
+
+**Features**
 
 - Live Preview
-- Raw HTML Output
+- HTML Output
 - Character Counter
 - Copy HTML Button
 - Responsive Design
 
-🔗 Live Demo:  
+**Live Demo**  
 https://yamkelamazwi.github.io/Markdown-to-HTML-converter/
 
----
-
-### 🔍 Regex Sandbox
-
-An interactive regular expression testing tool built with JavaScript.
-
----
-
-### 🚫 Spam Filter
-
-Regex-powered spam detection utility that identifies common spam patterns.
-
----
-
-### 🔤 Pig Latin Translator
-
-Translate English words into Pig Latin using JavaScript string manipulation.
-
----
-
-### 🔗 Spinal Case Converter
-
-Converts strings into spinal-case format while handling spaces, underscores, and camelCase notation.
+**Repository**  
+https://github.com/yamkelamazwi/Markdown-to-HTML-converter
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced JavaScript
-- APIs
-- React
-- Modern Frontend Development
+- DOM Manipulation
+- Text Processing
+- API Integration
+- Frontend Architecture
 
 ---
 
 ## 🎯 Goals
 
 - Build more advanced JavaScript applications
-- Learn React
-- Create a professional frontend portfolio
-- Contribute to open source projects
+- Expand my portfolio with real-world projects
+- Strengthen problem-solving skills
+- Continue growing as a frontend developer
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect
 
-GitHub: https://github.com/yamkelamazwi
+**Portfolio**  
+https://yamkelamazwi.github.io/Yamkela-Mazwi-Frontend-Developer/
+
+**GitHub**  
+https://github.com/yamkelamazwi
+
+**Email**  
+urbantoney@gmail.com
 
 ---
 
-> Building one project at a time and improving with every commit.
-
+> Learn. Build. Improve.
