@@ -1,64 +1,118 @@
-# 👋 Yo, I'm Yamkela Mazwi
+# 👋 Hello, I'm Yamkela Mazwi
 
-Frontend Developer building practical web applications with HTML, CSS, and JavaScript.
+Frontend Developer passionate about building practical, responsive, and user-focused web applications with HTML, CSS, and JavaScript.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Regex](https://img.shields.io/badge/Regex-8A2BE2?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0EA5E9?style=for-the-badge)
+I'm a self-taught developer who learns by building. My journey started with HTML and CSS, expanded into JavaScript fundamentals and DOM manipulation, and now includes working with APIs, asynchronous programming, dynamic UI updates, and real-world application development.
 
 ---
 
 ## 🚀 About Me
 
-I'm a self-taught Frontend Developer from South Africa who enjoys learning by building projects and solving real problems with code.
-
-My current focus is strengthening my JavaScript foundations, improving my frontend development skills, and creating responsive, user-friendly web applications.
+- 🌍 Based in South Africa
+- 💻 Self-taught Frontend Developer
+- 🔍 Enjoy solving problems through code
+- 📚 Currently focused on advanced JavaScript and application development
+- 🎯 Working toward becoming a professional Frontend Developer
 
 ---
 
 ## 🛠 Tech Stack
 
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Skills
+
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- DOM Manipulation
+- Event Handling
+- Fetch API
+- Async / Await
+- API Integration
+- Error Handling
 - Responsive Design
 - Accessibility
-- Git & GitHub
 - Regular Expressions (Regex)
-- DOM Manipulation
+- Git & GitHub
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Live Portfolio**
+### Live Portfolio
 
-https://yamkelamazwi.github.io/Yamkela-Mazwi-Frontend-Developer/
+🔗 https://yamkelamazwi.github.io/Yamkela-Mazwi-Frontend-Developer/
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🔍 Regex Sandbox
+## 🎬 Movie Finder
 
-An interactive tool for testing and experimenting with regular expressions in real time.
+A movie search application powered by the OMDb and TMDB APIs.
 
-**Live Demo**  
+### Highlights
+
+- Search movies instantly
+- Display movie details
+- Display movie posters
+- Trailer integration
+- Dynamic search results
+- Error handling
+- Responsive layout
+- Multiple API integrations
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Fetch API
+- Async/Await
+- OMDb API
+- TMDB API
+
+**Live Demo**
+
+https://yamkelamazwi.github.io/movie-app/
+
+**Repository**
+
+https://github.com/yamkelamazwi/MovieFinder
+
+---
+
+## 🔍 Regex Sandbox
+
+An interactive tool for experimenting with regular expressions in real time.
+
+### Features
+
+- Live matching
+- Pattern testing
+- Real-time results
+- Responsive design
+
+**Live Demo**
+
 https://yamkelamazwi.github.io/regex-sandbox/
 
-**Repository**  
+**Repository**
+
 https://github.com/yamkelamazwi/regex-sandbox
 
 ---
 
-### 📄 Markdown to HTML Converter
+## 📄 Markdown to HTML Converter
 
-A browser-based Markdown converter that transforms Markdown into HTML instantly.
+A browser-based application that converts Markdown into HTML instantly.
 
-**Features**
+### Features
 
 - Live Preview
 - HTML Output
@@ -66,44 +120,67 @@ A browser-based Markdown converter that transforms Markdown into HTML instantly.
 - Copy HTML Button
 - Responsive Design
 
-**Live Demo**  
+**Live Demo**
+
 https://yamkelamazwi.github.io/Markdown-to-HTML-converter/
 
-**Repository**  
+**Repository**
+
 https://github.com/yamkelamazwi/Markdown-to-HTML-converter
 
 ---
 
-## 📚 Currently Learning
+## 📈 What I've Been Learning
 
-- Advanced JavaScript
+Over the past few months I've progressed from building static pages to creating interactive JavaScript applications.
+
+Areas I've been developing include:
+
 - DOM Manipulation
-- Text Processing
+- JavaScript Debugging
+- Asynchronous JavaScript
 - API Integration
-- Frontend Architecture
+- Fetch Requests
+- Dynamic Rendering
+- Event-Driven Programming
+- Responsive Design
+- Problem Solving
 
 ---
 
-## 🎯 Goals
+## 🎯 Current Goals
 
-- Build more advanced JavaScript applications
-- Expand my portfolio with real-world projects
-- Strengthen problem-solving skills
-- Continue growing as a frontend developer
+- Build larger JavaScript applications
+- Develop more real-world projects
+- Learn React
+- Learn application architecture and state management
+- Continue improving problem-solving skills
+- Prepare for Frontend Developer opportunities
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Stats
 
-**Portfolio**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamkelamazwi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamkelamazwi&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+**Portfolio**
+
 https://yamkelamazwi.github.io/Yamkela-Mazwi-Frontend-Developer/
 
-**GitHub**  
+**GitHub**
+
 https://github.com/yamkelamazwi
 
-**Email**  
+**Email**
+
 urbantoney@gmail.com
 
 ---
 
-> Learn. Build. Improve.
+> Learn. Build. Debug. Improve.
