@@ -79,7 +79,7 @@ A movie search application powered by the OMDb and TMDB APIs.
 
 **Live Demo**
 
-https://yamkelamazwi.github.io/movie-app/
+https://yamkelamazwi.github.io/MovieFinder/
 
 **Repository**
 
