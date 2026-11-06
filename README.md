@@ -120,6 +120,10 @@ Search for GitHub profiles and display user information using the GitHub API.
 - Avatar Display
 - Repository Information
 
+  **Live Demo**
+
+https://yamkelamazwi.github.io/GitHub-profile-finder/
+
 ---
 
 ## 🎬 Movie Finder
@@ -133,6 +137,10 @@ A project where users can search for movies and view information pulled from mov
 - Rendering dynamic results
 - Error handling
 
+- 
+**Live Demo**
+
+  https://yamkelamazwi.github.io/MovieFinder/
 ---
 
 ## 📈 What I've Learned So Far
