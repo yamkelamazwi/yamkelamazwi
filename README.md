@@ -1,173 +1,165 @@
-# 👋 Hello, I'm Yamkela Mazwi
+# 👋 Hey, I'm Yamkela Mazwi
 
-Frontend Developer passionate about building practical, responsive, and user-focused web applications with HTML, CSS, and JavaScript.
+I'm a self-taught Frontend Developer from South Africa who enjoys turning ideas into real, working applications.
 
-I'm a self-taught developer who learns by building. My journey started with HTML and CSS, expanded into JavaScript fundamentals and DOM manipulation, and now includes working with APIs, asynchronous programming, dynamic UI updates, and real-world application development.
+I started with HTML and CSS, moved into JavaScript, and quickly discovered that I enjoy building projects that solve actual problems. The best way I've found to learn is by building, breaking things, debugging them, and improving them.
 
----
-
-## 🚀 About Me
-
-- 🌍 Based in South Africa
-- 💻 Self-taught Frontend Developer
-- 🔍 Enjoy solving problems through code
-- 📚 Currently focused on advanced JavaScript and application development
-- 🎯 Working toward becoming a professional Frontend Developer
+Recently, I've been focused on building API-driven applications, improving my JavaScript skills, and creating projects that push me a little further with each build.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I'm Working On
 
-### Frontend
+Right now I'm focused on:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Improving my JavaScript skills
+- Building more API-driven applications
+- Writing cleaner code
+- Getting better at debugging
+- Learning the patterns used in larger applications
+- Preparing for React
 
-### Skills
+---
+
+## 🛠 Tech I Use
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- DOM Manipulation
-- Event Handling
+- JavaScript
 - Fetch API
 - Async / Await
-- API Integration
-- Error Handling
-- Responsive Design
-- Accessibility
-- Regular Expressions (Regex)
+- DOM Manipulation
 - Git & GitHub
+- Responsive Design
+- Mobile-First Development
+- API Integration
 
 ---
 
-## 🌐 Portfolio
+# 📂 Projects
 
-### Live Portfolio
+## 🌦️ Weather App
 
-🔗 https://yamkelamazwi.github.io/Yamkela-Mazwi-Frontend-Developer/
+A weather application built using the Open-Meteo APIs.
+
+### Features
+
+- Search weather by city
+- Current weather conditions
+- Humidity and wind speed
+- 7-day forecast
+- Dynamic weather backgrounds
+- Mobile-first design
+- Geolocation support
+
+### What I Learned
+
+This project taught me a lot about working with APIs.
+
+One thing that confused me at first was why I couldn't just send a city name directly to the weather API. After some debugging and research, I learned that I first had to use a geocoding API to get coordinates before requesting weather data.
+
+```text
+City Name
+    ↓
+Geocoding API
+    ↓
+Coordinates
+    ↓
+Weather API
+    ↓
+Weather Data
+```
+
+It was one of those moments where everything started making sense.
+
+**Live Demo**
+
+https://yamkelamazwi.github.io/WeatherApp/
+
+**Repository**
+
+https://github.com/yamkelamazwi/WeatherApp
 
 ---
 
-# 📂 Featured Projects
+## 💱 Currency Exchange App
+
+A currency converter that uses real exchange rate data from an API.
+
+### Things I Practiced
+
+- Fetch API
+- Async/Await
+- Event Handling
+- User Input Validation
+- Dynamic DOM Updates
+
+**Live Demo**
+
+https://yamkelamazwi.github.io/CurrencyExchange/
+
+---
+
+## 🐙 GitHub Profile Finder
+
+Search for GitHub profiles and display user information using the GitHub API.
+
+### Features
+
+- Profile Search
+- User Statistics
+- Avatar Display
+- Repository Information
+
+---
 
 ## 🎬 Movie Finder
 
-A movie search application powered by the OMDb and TMDB APIs.
+A project where users can search for movies and view information pulled from movie APIs.
 
-### Highlights
+### Things I Practiced
 
-- Search movies instantly
-- Display movie details
-- Display movie posters
-- Trailer integration
-- Dynamic search results
+- Working with external APIs
+- Handling user searches
+- Rendering dynamic results
 - Error handling
-- Responsive layout
-- Multiple API integrations
-
-### Technologies
-
-- HTML
-- CSS
-- JavaScript
-- Fetch API
-- Async/Await
-- OMDb API
-- TMDB API
-
-**Live Demo**
-
-https://yamkelamazwi.github.io/MovieFinder/
-
-**Repository**
-
-https://github.com/yamkelamazwi/MovieFinder
 
 ---
 
-## 🔍 Regex Sandbox
+## 📈 What I've Learned So Far
 
-An interactive tool for experimenting with regular expressions in real time.
+A few months ago I was struggling with basic JavaScript.
 
-### Features
+Now I can build projects that:
 
-- Live matching
-- Pattern testing
-- Real-time results
-- Responsive design
+- Work with APIs
+- Render data dynamically
+- Handle asynchronous operations
+- Use geolocation
+- Update the UI based on user actions
+- Adapt to different screen sizes
 
-**Live Demo**
-
-https://yamkelamazwi.github.io/regex-sandbox/
-
-**Repository**
-
-https://github.com/yamkelamazwi/regex-sandbox
+I've still got a lot to learn, but seeing projects go from an idea to something people can actually use is what keeps me motivated.
 
 ---
 
-## 📄 Markdown to HTML Converter
+## 🎯 Current Goal
 
-A browser-based application that converts Markdown into HTML instantly.
+Keep building.
 
-### Features
+Every project teaches me something I didn't know before.
 
-- Live Preview
-- HTML Output
-- Character Counter
-- Copy HTML Button
-- Responsive Design
+Next up:
 
-**Live Demo**
-
-https://yamkelamazwi.github.io/Markdown-to-HTML-converter/
-
-**Repository**
-
-https://github.com/yamkelamazwi/Markdown-to-HTML-converter
+- More API projects
+- Anime Finder
+- React
+- Larger applications
+- Better UI/UX
 
 ---
 
-## 📈 What I've Been Learning
-
-Over the past few months I've progressed from building static pages to creating interactive JavaScript applications.
-
-Areas I've been developing include:
-
-- DOM Manipulation
-- JavaScript Debugging
-- Asynchronous JavaScript
-- API Integration
-- Fetch Requests
-- Dynamic Rendering
-- Event-Driven Programming
-- Responsive Design
-- Problem Solving
-
----
-
-## 🎯 Current Goals
-
-- Build larger JavaScript applications
-- Develop more real-world projects
-- Learn React
-- Learn application architecture and state management
-- Continue improving problem-solving skills
-- Prepare for Frontend Developer opportunities
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamkelamazwi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamkelamazwi&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
+## 📫 Find Me Here
 
 **Portfolio**
 
@@ -183,4 +175,4 @@ urbantoney@gmail.com
 
 ---
 
-> Learn. Build. Debug. Improve.
+> Learn something. Build something. Repeat.
