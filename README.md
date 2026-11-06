@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yamkela Mazwi
+# 👋 Hello, I'm Yamkela Mazwi
 
 I'm a self-taught Frontend Developer from South Africa who enjoys turning ideas into real, working applications.
 
