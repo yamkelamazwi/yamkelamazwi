@@ -13,13 +13,13 @@ Recently, I've been focused on building API-driven applications, improving my Ja
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Fetch API](https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge)
-![Async/Await](https://img.shields.io/badge/Async%2FAwait-JavaScript-yellow?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-4CAF50?style=for-the-badge)
-![Geolocation](https://img.shields.io/badge/Geolocation_API-2196F3?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF9800?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badget now I'm focused on:
+https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge
+https://img.shields.io/badge/Async%2FAwait-6C757D?style=for-the-badge
+https://img.shields.io/badge/REST_APIs-4CAF50?style=for-the-badge
+https://img.shields.io/badge/Geolocation_API-2196F3?style=for-the-badge
+https://img.shields.io/badge/Responsive_Design-FF9800?style=for-the-badge
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
 - Improving my JavaScript skills
 - Building more API-driven applications
